@@ -11,6 +11,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # Publish posts or collection documents with a future date.
 future: true
 
+subtitle: "菲律宾"
 # SNS settings
 # RSS: false
 # weibo_username:     huxpro
