@@ -28,8 +28,8 @@ tags:
    <div class="tip tip_4 aimg_tip" id="aimg_1324889_menu" style="position: absolute; display: none" disautofocus="true"> 
     <div class="xs0"> 
      <p><strong>tenor.gif</strong> <em class="xg1">(193.79 KB, 下载次数: 0)</em></p> 
-     <p> <a href="forum.php?mod=attachment&amp;aid=MTMyNDg4OXwyNmE4NDAzYnwxNTc4MDU3Mjc4fDB8NTQ2MTEz&amp;nothumb=yes" target="_blank">下载附件</a> &nbsp;<a href="javascript:;" onclick="showWindow(this.id, this.getAttribute('url'), 'get', 0);" id="savephoto_1324889" url="home.php?mod=spacecp&amp;ac=album&amp;op=saveforumphoto&amp;aid=1324889&amp;handlekey=savephoto_1324889">保存到相册</a> </p> 
-     <p class="xg1 y"><span title="2020-1-3 17:26">3&nbsp;小时前</span> 上传</p> 
+     <p> <a href="forum.php?mod=attachment&amp;aid=MTMyNDg4OXwxMGYwNTFiOXwxNTc4MjE1ODk3fDB8NTQ2MTEz&amp;nothumb=yes" target="_blank">下载附件</a> &nbsp;<a href="javascript:;" onclick="showWindow(this.id, this.getAttribute('url'), 'get', 0);" id="savephoto_1324889" url="home.php?mod=spacecp&amp;ac=album&amp;op=saveforumphoto&amp;aid=1324889&amp;handlekey=savephoto_1324889">保存到相册</a> </p> 
+     <p class="xg1 y"><span title="2020-1-3 17:26">前天&nbsp;17:26</span> 上传</p> 
     </div> 
     <div class="tip_horn"></div> 
    </div> 
@@ -48,8 +48,8 @@ tags:
    <div class="tip tip_4 aimg_tip" id="aimg_1324888_menu" style="position: absolute; display: none" disautofocus="true"> 
     <div class="xs0"> 
      <p><strong>1345.png</strong> <em class="xg1">(73.91 KB, 下载次数: 0)</em></p> 
-     <p> <a href="forum.php?mod=attachment&amp;aid=MTMyNDg4OHw3NDY2NzZkMnwxNTc4MDU3Mjc4fDB8NTQ2MTEz&amp;nothumb=yes" target="_blank">下载附件</a> &nbsp;<a href="javascript:;" onclick="showWindow(this.id, this.getAttribute('url'), 'get', 0);" id="savephoto_1324888" url="home.php?mod=spacecp&amp;ac=album&amp;op=saveforumphoto&amp;aid=1324888&amp;handlekey=savephoto_1324888">保存到相册</a> </p> 
-     <p class="xg1 y"><span title="2020-1-3 17:17">3&nbsp;小时前</span> 上传</p> 
+     <p> <a href="forum.php?mod=attachment&amp;aid=MTMyNDg4OHxlM2NmZDc5MXwxNTc4MjE1ODk3fDB8NTQ2MTEz&amp;nothumb=yes" target="_blank">下载附件</a> &nbsp;<a href="javascript:;" onclick="showWindow(this.id, this.getAttribute('url'), 'get', 0);" id="savephoto_1324888" url="home.php?mod=spacecp&amp;ac=album&amp;op=saveforumphoto&amp;aid=1324888&amp;handlekey=savephoto_1324888">保存到相册</a> </p> 
+     <p class="xg1 y"><span title="2020-1-3 17:17">前天&nbsp;17:17</span> 上传</p> 
     </div> 
     <div class="tip_horn"></div> 
    </div> 
