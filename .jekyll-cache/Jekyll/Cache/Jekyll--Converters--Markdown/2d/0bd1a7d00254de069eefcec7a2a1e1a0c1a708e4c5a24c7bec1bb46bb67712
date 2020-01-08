@@ -1,0 +1,568 @@
+I"p�<head></head>
+<body>
+ <i class="pstatus"> 本帖最后由 路过的魔 于 2020-1-8 09:23 编辑 </i>
+ <br /> 
+ <br /> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">导读：“相见不问好，开腔言生肖。上期已出牛，这期该马跑？输者长叹息，赢者怨注小。田亩少人耕，沃野生蒿草。电视及时雨，码报如雪飘。遥望买单处，人如东海潮。”一首“买马”诗，形象地刻画出地下“六合彩”的泛滥灾情。互联网的快速发展促使彩票产业从线下转向了线上，网络菠菜同样泛滥成灾。最近暗影实验室收集了一批菠菜类样本，并对其进行了分类分析。</font></font></font> 
+ </div>
+ <br /> 
+ <strong>1. 网络菠菜背景</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">在网站上搜索“网络赌博案”很快映入眼帘的标题就是“全国最大网络赌徒案宣判：‘暴富谎言’吸引4840亿投注”、“全国最大规模网络赌博案，赌徒一月输掉150亿”等案例，从2014年世界杯起催生了约300家互联网公司在线售卖彩票，导致网络售彩各种乱象层出不穷。同时互联网时代，移动数据时代为菠菜类应用的滋生提供了良好的环境。国家对网络菠菜并没有明确的法律规定，这就导致越来越多人钻法律空子，铤而走险进入菠菜行业。近日公安部发布消息称：大连、烟台警方各破获一起特大非法经营案，涉案金额分别为92亿元和15亿元，涉案公司主要从事帮助跨境赌博公司搭建非法支付渠道。由此可以看出网络赌博流转的资金是多么庞大，又有多少民众深受其害。</font></font></font> 
+ </div>
+ <br /> 
+ <strong>2. 菠菜类应用概述</strong>
+ <strong>2.1 应用名分布</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">菠菜类应用大部分以…彩票、…娱乐城命名。如下图所示为菠菜类应用名称分布情况。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="608" height="383" src="https://p5.ssl.qhimg.com/t017eb9006a17eaf51d.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图2-1 菠菜类应用名称</font></font></font> 
+ </div>
+ <strong>2.2 样本包名签名信息统计</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">通过对样本的统计发现这批样本中，以com.apk.u为前缀的包名最多，占比为82%。而这些包名对应的签名信息CN=apk,OU=apk…同样也占比最高占比为83%，由于相同签名的样本只能出自一个组织或个人，其他人无法获得相同的签名。因此可以看出这些应用基本都出自于同一厂家。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="330" src="https://p0.ssl.qhimg.com/t011348de3073b0472a.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图2-2 应用包名与签名分类统计图</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">样本同质化严重，质量低下，不同的应用的界面结构几乎一模一样。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="806" height="657" src="https://p0.ssl.qhimg.com/t0191ae722a81d0233b.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图2-3 不同应用的“两个”主界面</font></font></font> 
+ </div>
+ <strong>2.3 网络菠菜套路</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">网络菠菜通过QQ、比邻、陌陌等社交软件利用男帅女靓的头像吸引他人，获取好感并主动加好友，之后以软件不常用的理由要求对方加微信。微信头像，朋友圈等信息都是盗用他人照片，朋友圈的虚假信息。通过朋友圈营造自己是一个成功人士。主动联系受害者，虚寒问暖、获取信任、了解对方经济情况。之后透露自己有副业，盈利丰富，勾起对方好奇心。以试玩，充值就送，虚假的盈利数据诱惑对方充值。对方上钩后，通过修改开奖结果，带初玩者把把盈利，加深他们对平台以及介绍者的信任。之后便以多输少赢的局面让受害者亏空。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="423" src="https://p4.ssl.qhimg.com/dm/1024_510_/t0169692e1a2324a257.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图2-4 网络菠菜套路</font></font></font> 
+ </div>
+ <br /> 
+ <strong>3. 样本启动流程</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">菠菜类应用基本通过“套壳”方式启动，也就是先利用“壳App”（App内只注册了少量组件，文件结构简单，相当于一个空壳，此文我将它称作壳App）注册并通过审核，接着在后台通过网站接入、变换页面等方式将有赌博内容的网页及功能加入到原来的壳App中替换掉之前的页面，这样就可以形成一个新的菠菜应用程序。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">以套壳方式启动的原因：</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（1）原生app的开发成本和网页相比相对较高，所以越来越多的app使用网页来作为界面，甚至完全将一个网站封装成app，可以提高开发速度，还能基本实现跨平台。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（2）有些应用商店如苹果商店禁止数字货币、菠菜类应用的上架，通过这种方式可以躲避应用商店的检测。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="830" height="272" src="https://p5.ssl.qhimg.com/t019f8a8c96a8d990f1.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图3-1 应用启动流程</font></font></font> 
+ </div>
+ <br /> 
+ <strong>4. 技术特点</strong>
+ <strong>4.1 静默安装</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">检测手机目录下是否存在应用包名，如果存在则执行cmd命令静默安装。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="143" src="https://p0.ssl.qhimg.com/t01e9bbd66f76256af8.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-1 静默安装</font></font></font> 
+ </div>
+ <strong>4.2 套壳启动</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">壳app文件结构简单，清单文件中只注册了少了activity页面。同时通过该丰富的网页链接，自动加载菠菜网页，接入菠菜网站。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="274" height="291" src="https://p4.ssl.qhimg.com/t014475c5f290dfaf8c.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-2 样本文件结构</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">清单文件中只注册了几个activity。用于加载丰富的菠菜网页，接入菠菜网站。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="248" src="https://p1.ssl.qhimg.com/t01627628660b2ea266.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-3 样本清单文件结构</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">丰富的网页链接，通过url拼接成各网页地址。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="398" src="https://p4.ssl.qhimg.com/t0134c47a64a09f53c5.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-4 丰富的菠菜网页</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">通过WebView的loadurl（）方式接入网站（如https://****.net/mobile/index.php），且通过setJavaScriptEnabled（）设置与页面进行交互。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="358" src="https://p0.ssl.qhimg.com/t017e147a5030907329.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-5 加载方式</font></font></font> 
+ </div>
+ <strong>4.3 规避封堵</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（1）应用程序通过频繁更新应用版本来规避封堵。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="832" height="408" src="https://p1.ssl.qhimg.com/t01fbb3b13b215ec950.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-6 频繁升级版本</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（2）应用集成了支付宝、微信支付、云微付各种支付手段。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="123" src="https://p4.ssl.qhimg.com/t01b915f28f9243db3d.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-7 支付渠道多样</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">通过不定时的更新支付手段，以及收款账号来规避封堵。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="619" height="613" src="https://p1.ssl.qhimg.com/t011fc1cdb02b3f77b0.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-8 更新收款方式及账号</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（3）频繁更换官网来规避封堵。代码内集成了多条网站路线，如果其中一条网站路线被封堵，可开通其它的路线。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="457" src="https://p2.ssl.qhimg.com/t01309bf0030819dcd7.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-9 多条官网路线</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">不同的路线指向不同的的内容。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="422" src="https://p1.ssl.qhimg.com/t014ec155a83ee092e2.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-10 不同路线打开的网站不同</font></font></font> 
+ </div>
+ <strong>4.4 固定算法</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">根据游戏规则制定多样的开奖算法。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="600" height="759" src="https://p3.ssl.qhimg.com/t0149454692fd994af3.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-11 固定算法</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">依据“重庆时时彩”每期发布的5个开奖数字，5个数字的大小、单双排列决定输赢。赌博设置了4、5种规则，比如5个数字加起来大于等于23的为大，小于等于22的为小。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="600" height="647" src="https://p5.ssl.qhimg.com/t019526457571d59520.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-12 精密计算</font></font></font> 
+ </div>
+ <strong>4.5 恶意行为</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（1）有些菠菜应用内存在获取用户隐私、拨打用户电话、向用户发送短信的高危行为。获取用户手机电话号码、网络运行商、sim卡运营商、设备id等信息。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="593" src="https://p1.ssl.qhimg.com/t0175068d2353857ad2.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-13 获取收集设备信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（2）获取手机音频、视频以及图片信息。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="205" src="https://p3.ssl.qhimg.com/t015fe5cf94d99f5a90.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-14 获取手机应用使用情况</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（3）获取用户登录账号、邮箱、QQ、微信、卡号、开户行等信息。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="800" height="828" src="https://p3.ssl.qhimg.com/t0139a478100e5e4600.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="334" src="https://p5.ssl.qhimg.com/t0138d37d1cd619aca5.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-15 获取用户个人信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（4）向用户发送菠菜相关的短信，勾起用户好奇心。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="790" height="298" src="https://p2.ssl.qhimg.com/t0117905a1bf8f4bd8c.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="322" height="552" src="https://p0.ssl.qhimg.com/t013147682ab7662bcb.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-16 发送短信</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（5）拨打用户电话，向用户推销彩票。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="814" height="150" src="https://p3.ssl.qhimg.com/t0124ce7a65da2dcf4f.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图4-17 拨打电话</font></font></font> 
+ </div>
+ <br /> 
+ <strong>5. 追踪溯源</strong>
+ <strong>5.1 组织架构</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">俗话说羊毛出在羊身上，从制作到使用，每一环节都可以获利，线上赌博的流程已经形成了一条成熟的产业链，BOSS属于投资方以及幕后最大的操作手，同时也是隐藏最深，制作团队根据需求以及市场情势批量制作应用程序或者网站，这样的产品一般都是套用模板，配合着精心研究的算法批量产出，代理团队使用各种办法将其进行推广及处理售后工作，发展的下线通过设置赔率从流水线中获取佣金，当用户被榨干钱财的时候，推荐与其合作的贷款平台，层层环节获取的黑钱交由洗钱组通过多次转账等手法将其洗出分成。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="387" src="https://p3.ssl.qhimg.com/t010a1baa038b863051.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-1 组织架构</font></font></font> 
+ </div>
+ <strong>5.2 传播途径</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">5.2.1 微信小程序</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">小程序的火热以及它带来的方便高效性博得了用户很多好感，很多人对它们的戒备心并不是很强，随手一个转发到群聊，点击量就会不断增加。同为好奇星人表示不能忍。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="603" height="567" src="https://p5.ssl.qhimg.com/t010383e04d38a065bd.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-2 微信小程序</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">所有的按钮都指向了下载链接，这个小程序只是一个传播途径，引导用户下载app。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="835" height="725" src="https://p4.ssl.qhimg.com/t016b33dbc25a71a778.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-3 下载链接</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">5.2.2 发展代理下线</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">通过将玩家发展成下线。玩家获取到代理盘，成为平台代理。代理的模式是通过生成邀请码发展自己的客户，自己设置自身的高赔率，通过客户的赔率的差额进行回水，从而赚取佣金费用。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="833" height="133" src="https://p1.ssl.qhimg.com/t01b1fabcbe30fbc248.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="756" height="636" src="https://p5.ssl.qhimg.com/t01e5344187c4551641.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="801" height="585" src="https://p2.ssl.qhimg.com/t017b666d7db6f88fb4.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-4 发展代理下线</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">新注册的用户必须输入代理的邀请码才能注册。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="180" height="360" src="https://p4.ssl.qhimg.com/t016fa7339b8c4becb3.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-5 邀请码注册</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">5.2.3 捆绑色情直播招赌</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">推广员通过兼职招聘、网赚项目、色情直播等方式进行招赌。直播就在网络赌博平台进行，几名女子每天固定时间进行色情直播。观看直播需要先在网络赌博平台上注册充值，才能获得观看权限。如果充值超过一万元，可以观看一对一色情直播。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="250" height="444" src="https://p0.ssl.qhimg.com/t013a0939839e4a76e6.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-6 色情直播招赌</font></font></font> 
+ </div>
+ <strong>5.3 盈利方式</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">菠菜类应用主要通过三种方式盈利：</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（1）操控开奖结果保底盈利让大多数玩家输钱。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（2）以各种理由拒绝中高额彩票的用户提现从而继续指导投注至最后输光为止。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（3）推荐各网贷平台或自己平台贷款给用户买彩。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="240" src="https://p0.ssl.qhimg.com/t01ddbc26805f5a2382.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-7 网络菠菜盈利方式</font></font></font> 
+ </div>
+ <strong>5.4&nbsp;&nbsp;四大诈术</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">“参与网络菠菜总是输”之四大诈术：</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（1）诈术1：庄家天眼，实时监测每个客人必须通过唯一账号才能进入菠菜网站或菠菜客户端，庄家第一时间就能了解到有多少人员参赌和下注方式。庄家可根据玩家的下注方式来修改开奖结果。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="432" src="https://p0.ssl.qhimg.com/t01f9d7795dea9613f6.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-8 庄家天眼，实时监测</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（2）诈术2：充值返利，注册就送</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">黑产团队通常在各大论坛、成人网站等做广告，通过“免费试玩、注册送现金、充一百送一百”等手段吸引注册，前期调高概率让用户赢小钱，小额提现马上到账（但如果想大额提现，会以各种手段拖延，拒付）。客户尝到轻松赢钱的滋味后，就会慢慢主动充值再入局，由于庄家资金和规则上的优势，最终客户只会越输越多。这无疑是在温水煮青蛙。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="577" src="https://p2.ssl.qhimg.com/t017a0bea32b6b6128d.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-9 充值返利，注册就送</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（3）诈术3：美女荷官，在线发牌</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">网络赌场可以通过视频直播的方式，看到真人实时发牌（例如真人百家乐等），为避免被机器人诈骗，参赌人员酷爱跟“真人荷官”对赌，认为这种赌博盈率会高。但实际上，庄家可以通过网络延迟，使参赌人员在APP上看到的画面比实际延迟几秒钟。实际上几乎没有赢面。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="844" height="351" src="https://p3.ssl.qhimg.com/t01e5519698e43dba53.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-10 美女荷官，在线发牌</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">（4）诈术4：机器人陪玩</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">前不久，机器程序阿尔法狗战胜世界围棋冠军李世石震惊世界。事实上，网络赌场中很多所谓的“玩家”都是机器程序，庄家以机器人跟赌徒对赌。所有真实用户在下注时都可能与被系统安排的机器人同桌，有可能看起来火爆的台面上都是客户和机器人在玩。</font></font></font> 
+ </div>
+ <strong>5.5&nbsp;&nbsp;溯源分析</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">对样本进行行溯源分析，具体溯源分析流程图如图5-7所示：</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="325" src="https://p4.ssl.qhimg.com/t01303b010a27dccc5d.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-11 溯源流程图</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">通过对app进行分析，为了规避封堵，一些url已经失效，从种获取到几个有效url进行分析。共有五条备用线路，分别是：</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://ss</font></font>**77.com</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://ss</font></font>**03.com</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://ss</font></font>**32.com</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://ss</font></font>**33.com</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://ss</font></font>**69.com</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">经测试，五条线路访问的页面是一致的，对url进行检索，判断将<font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://ss</font></font>**77.com域名进行查询，时间一直持续到查询的这一天，可以确定使用这个ip网址正在运营。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="673" height="253" src="https://p2.ssl.qhimg.com/t01e122d21c35554df5.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-12 访问路线</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">根据捕获的下载地址，提取域名进行统计分析，如表5-1所示，除去一例地址为美国外，大多数为国内的地址。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">表5-1 服务器地址分布</font></font></font> 
+ </div> 
+ <table cellspacing="0" class="t_table"> 
+  <tbody> 
+   <tr> 
+    <td width="95">排行</td> 
+    <td width="168">下载域名</td> 
+    <td width="95">物理地址</td> 
+    <td width="96">计数</td> 
+   </tr> 
+   <tr> 
+    <td width="95">1</td> 
+    <td width="168">appdown.j***jt.com</td> 
+    <td width="95">陕西省</td> 
+    <td width="96">1375</td> 
+   </tr> 
+   <tr> 
+    <td width="95">2</td> 
+    <td width="168">dd.m***p.com</td> 
+    <td width="95">四川省</td> 
+    <td width="96">323</td> 
+   </tr> 
+   <tr> 
+    <td width="95">3</td> 
+    <td width="168">cp***pp.com</td> 
+    <td width="95">广东省</td> 
+    <td width="96">299</td> 
+   </tr> 
+   <tr> 
+    <td width="95">4</td> 
+    <td width="168">down.0**c.com</td> 
+    <td width="95">美国</td> 
+    <td width="96">207</td> 
+   </tr> 
+   <tr> 
+    <td width="95">5</td> 
+    <td width="168">down.le***cp.com</td> 
+    <td width="95">四川省</td> 
+    <td width="96">119</td> 
+   </tr> 
+   <tr> 
+    <td width="95">6</td> 
+    <td width="168">f.x**9.com</td> 
+    <td width="95">河南省</td> 
+    <td width="96">85</td> 
+   </tr> 
+   <tr> 
+    <td width="95">7</td> 
+    <td width="168">appdl.hi***ud.com</td> 
+    <td width="95">陕西省</td> 
+    <td width="96">70</td> 
+   </tr> 
+   <tr> 
+    <td width="95">8</td> 
+    <td width="168">app.x**ip.vip</td> 
+    <td width="95">湖南省</td> 
+    <td width="96">61</td> 
+   </tr> 
+   <tr> 
+    <td width="95">9</td> 
+    <td width="168">fenfa.059***ang.com</td> 
+    <td width="95">江苏省</td> 
+    <td width="96">60</td> 
+   </tr> 
+  </tbody> 
+ </table> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">对这些ip进行关联分析，共有55个域名曾经解析到这个ip，其中包括了这五条备用线路的网址，whois反查时并没有什么有效信息，注册人无，注册服务器为阿里云服务器。使用网页进行访问该网址，发现做了防劫持。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="770" height="512" src="https://p1.ssl.qhimg.com/t01bdfdf29b8e058e62.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="681" height="521" src="https://p5.ssl.qhimg.com/t017eb3ed51933bec43.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-13 域名备案信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">通过在网页上寻找一些有关信息，发现客服的邮箱，进而qq寻找。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="261" height="345" src="https://p2.ssl.qhimg.com/t015f4b531670982d0e.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-15 qq信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">找到了一堆自拍，而拍摄的时间是在05年..14年之前的相册了。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="1" height="1" src="https://p2.ssl.qhimg.com/t01293e39fc9659ae71.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-16 自拍照</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">可以查到其使用的嘤航卡。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="850" height="407" src="https://p0.ssl.qhimg.com/t010322e106d3b92232.png" style="cursor:pointer" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-17 嘤航卡信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">再挖qq号相关，发现这人一直在做关于菠菜类的代理或者客服，同时找到了其微信号 。<font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="627" height="310" src="http://data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" /></font></font></font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="781" height="384" src="https://p1.ssl.qhimg.com/t01aeea25fbb40625de.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-18 微信号信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">发现其朋友圈啥也没有，应该就是纯粹用来做客服的。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">分析到此，由于口风太严，并没有得到什么有价值的信息，再去分析app，找到另外一条可疑域名<font style="color:rgb(29, 173, 167)"><font style="background-color:transparent">https://50</font></font>**u4.com，访问这个url时发现已经无法访问，但去反查这条url，获得以下信息。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="454" height="490" src="https://p0.ssl.qhimg.com/t019a3bba049aafbb65.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-19 反查url信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">邮箱名500uu是菠菜相关的名词，说明这个网址可能靠谱 。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="640" height="359" src="https://p4.ssl.qhimg.com/t0156f3f6839c1aeb7d.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-20 邮箱关联信息</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">去溯源手机号，得到名字为*家宽，头像是一个小女孩的自拍照（已打码）。此号码也未注册过什么网站，既然注册过域名，且懂得菠菜类的套路，所以怀疑是可能注册的黑号。</font></font></font> 
+ </div> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px"><font style="color:rgb(29, 173, 167)"><font style="background-color:transparent"><img width="460" height="602" src="https://p1.ssl.qhimg.com/t01b66bd72c6512ab95.png" /></font></font></font></font></font> 
+ </div> 
+ <div align="center"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">图5-21 支付信息</font></font></font> 
+ </div>
+ <br /> 
+ <strong>6. 总结</strong> 
+ <div align="left"> 
+  <font style="color:rgb(88, 88, 88)"><font face="Lato, &amp;quot;"><font style="font-size:16px">菠菜类的运营往往是一个专业的团队，通过套壳的方式大量产出低质量应用程序。从应用的推广-诱导投资-骗取财产到最后导致用户亏空都是他们精心策划的套路。奉劝网赌的朋友们不要被暂时的利益蒙蔽双眼，及时止损为上策。</font></font></font> 
+ </div>
+ <br />
+</body>
+:ET
